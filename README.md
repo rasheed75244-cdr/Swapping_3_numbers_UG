@@ -73,7 +73,9 @@ endmodule
 ```
 
 ## Expected Output
+<img width="1265" height="727" alt="image" src="https://github.com/user-attachments/assets/3132f031-252a-4ce9-aa9c-6995e3a2d53c" />
 
+<img width="746" height="607" alt="image" src="https://github.com/user-attachments/assets/8e888123-b84d-4a19-b6f1-71b26244c1fb" />
 
 
 ## Result
